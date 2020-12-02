@@ -19,4 +19,34 @@
     "name": "Accessories",
     "image": "accessories.png"
   }
+  {
+    "CategoriesID": 5,
+    "name": "Living Room",
+    "image": "living_room.png"
+  },
+  {
+    "CategoriesID": 6,
+    "name": "Meeting Room",
+    "image": "meeting_room.png"
+  },
+  {
+    "CategoriesID": 7,
+    "name": "Bed Room",
+    "image": "bed_room.png"
+  },
+  {
+    "CategoriesID": 8,
+    "name": "Accessories",
+    "image": "accessories.png"
+  }
+  {
+    "CategoriesID": 9,
+    "name": "Living Room",
+    "image": "living_room.png"
+  },
+  {
+    "CategoriesID": 10,
+    "name": "Meeting Room",
+    "image": "meeting_room.png"
+  },
 ]
